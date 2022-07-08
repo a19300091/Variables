@@ -1,0 +1,18 @@
+var var1 = 5;
+var var2 = 7;
+var var3 = 9;
+console.log("Variable 1: ");
+console.log(var1);
+console.log("Variable 2: ");
+console.log(var2);
+console.log("Variable 3: ");
+console.log(var3);
+var var1 = 'Hello';
+var var2 = 'Good Morning';
+var var3 = 'See you soon';
+console.log("Variable 1: ");
+console.log(var1);
+console.log("Variable 2: ");
+console.log(var2);
+console.log("Variable 3: ");
+console.log(var3);
